@@ -1,0 +1,22 @@
+.rodape1{
+    background-image: url('../../../public/imagens/fundo.png');
+    background-repeat: no-repeat;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #6278F7;
+}
+.redes{
+    display: flex;
+    gap: 30%;
+}
+.redes img{
+    width: 1.3rem;
+}
+.rodape1 h6{
+    font-family: 'Montserrat';
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
